@@ -1,0 +1,65 @@
+<div class="container">
+    <div *ngIf="loading" class="loading-spinner">
+      <div class="spinner"></div>
+      <p>Loading your packing results...</p>
+    </div>
+  
+    <div *ngIf="error" class="alert alert-error">
+      {{ error }}
+    </div>
+  
+    <div *ngIf="!loading && !error && packingResult">
+      <div class="card result-card">
+        <div class="result-header">
+          <h2 class="page-title">
+            Your Optimized Packing Plan for {{ packingResult.name }}
+          </h2>
+        </div>
+  
+        <div class="result-summary">
+          <div class="summary-item">
+            <span class="summary-label">Total Boxes Required:</span>
+            <span class="summary-value">{{ packingResult.numOfBoxes }}</span>
+          </div>
+        </div>
+  
+        <div class="packing-items">
+          <h3>Packing Items</h3>
+          <div class="boxes-wrapper">
+            <div *ngFor="let box of packingResult.boxes; let i = index" class="box-card">
+              <details>
+                <summary class="accordion-header">
+                  <span class="box-title">📦 Box {{ i + 1 }} </span>
+                  <span class="arrow">&#9660;</span>
+                </summary>
+  
+                <div class="items-scroll-wrapper">
+                  <ul class="items-list">
+                    <li *ngFor="let item of box.items">{{ item.name }}</li>
+                  </ul>
+                </div>
+              </details>
+            </div>
+          </div>
+        </div>
+  
+        <div class="action-buttons-wrapper">
+            <button class="export-btn" (click)="exportToPDF()">📄 Export to PDF</button>
+            <button class="export-btn back-btn" (click)="goBackToRoomSelection()">⬅ Back to Room Selection</button>
+          </div>
+          
+  
+    </div>
+  
+    <div class="pdf-export-content" style="display: none">
+      <h2>Your Optimized Packing Plan for {{ packingResult.name }}</h2>
+      <p><strong>Total Boxes Required:</strong> {{ packingResult.numOfBoxes }}</p>
+      <div *ngFor="let box of packingResult.boxes; let i = index">
+        <h3>Box {{ i + 1 }}</h3>
+        <ul>
+          <li *ngFor="let item of box.items">{{ item.name }}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  

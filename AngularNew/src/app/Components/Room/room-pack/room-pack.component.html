@@ -1,0 +1,22 @@
+<!-- פופאפ להוספת חדר -->
+<app-add-room 
+  *ngIf="showAddRoomPopup"
+  [categoryId]="categoryId"
+  [showModal]="showAddRoomPopup"
+  (roomCreated)="handleRoomCreated($event)"
+  (closeModal)="closeAddRoomPopup()">
+</app-add-room>
+
+<div *ngIf="showImageUpload">
+  <app-image-upload (analysisCompleted)="handleAnalysisResults($event)" 
+  (capacity)="handleCapacity($event)">></app-image-upload>
+</div>
+
+<div *ngIf="showResults">
+    <app-result 
+      [analysisResults]="imageAnalysisResults" 
+      [selectedBoxVolume]="selectedBoxVolume" 
+      [room]="createdRoom"
+      (back)="goBack()">
+    </app-result>
+  </div>

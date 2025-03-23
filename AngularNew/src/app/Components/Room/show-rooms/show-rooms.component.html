@@ -1,0 +1,25 @@
+<div class="container">
+  <h1 class="page-title">Select a Room to Pack</h1>
+  <p class="page-description">Choose the type of room you want to optimize packing for</p>
+  
+  <!-- <div *ngIf="loading" class="loading-spinner">
+    <div class="spinner"></div>
+    <p>Loading rooms...</p>
+  </div> -->
+  
+  <div *ngIf="error" class="alert alert-error">
+    {{ error }}
+  </div>
+  
+  <div *ngIf="!loading && !error" class="room-grid">
+    <div *ngFor="let room of rooms" class="room-card card" (click)="selectRoom(room)">
+      <img [src]="room.imageUrl" [alt]="room.name">
+      <div class="room-card-content">
+        <h3>{{ room.name }}</h3>
+        <p>{{ room.description }}</p>
+        <button class="btn btn-primary">Select</button>
+      </div>
+    </div>
+  </div>
+</div>
+

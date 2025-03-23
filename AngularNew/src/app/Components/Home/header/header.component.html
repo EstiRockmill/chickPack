@@ -1,0 +1,21 @@
+<header class="header">
+    <div class="container">
+        <div class="header-content">
+            <div class="logo">
+                <a routerLink="/">Room Packing Optimizer</a>
+            </div>
+            <nav class="nav">
+                <ul class="nav-list">
+                    <!-- <li><a routerLink="/">Home</a></li> -->
+                    <!-- <li *ngIf="currentUser"><a routerLink="/room-selection">Rooms</a></li> -->
+                    <li *ngIf="!currentUser"><a routerLink="/login">Login</a></li>
+                    <li *ngIf="!currentUser"><a routerLink="/signUp">Sign Up</a></li>
+                    <li *ngIf="currentUser" class="user-info">
+                        <span>Welcome, {{ currentUser.name }}</span>
+                        <button class="btn-logout" (click)="logout()">Logout</button>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>

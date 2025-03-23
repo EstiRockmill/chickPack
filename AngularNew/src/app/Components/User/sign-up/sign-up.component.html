@@ -1,0 +1,66 @@
+<div class="container">
+    <div class="auth-container">
+        <div class="card auth-card">
+            <h2 class="text-center">Sign Up</h2>
+
+            <div *ngIf="error" class="alert alert-error">
+                {{ error }}
+            </div>
+            <form (ngSubmit)="onSubmit()" [formGroup]="signUp">
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" class="form-control" formControlName="name">
+                    <div *ngIf="signUp.get('name')?.invalid && signUp.get('name')?.touched" class="error-message">
+                        <div *ngIf="signUp.get('name')?.errors?.['required']">Name is required.</div>
+                        <div *ngIf="signUp.get('name')?.errors?.['minlength']">Name must be at least 2 characters.</div>
+                        <div *ngIf="signUp.get('name')?.errors?.['maxlength']">Name cannot exceed 50 characters.</div>
+                        <div *ngIf="signUp.get('name')?.errors?.['pattern']">Name must contain only letters.</div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" class="form-control" formControlName="email">
+                    <div *ngIf="signUp.get('email')?.invalid && signUp.get('email')?.touched" class="error-message">
+                        <div *ngIf="signUp.get('email')?.errors?.['required']">Email is required.</div>
+                        <div *ngIf="signUp.get('email')?.errors?.['email']">Invalid email format.</div>
+                        <div *ngIf="signUp.get('email')?.errors?.['pattern']">Email must be a Gmail address.</div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="address">Address</label>
+                    <input type="text" id="address" name="address" class="form-control" formControlName="address">
+                    <div *ngIf="signUp.get('address')?.invalid && signUp.get('address')?.touched" class="error-message">
+                        <div *ngIf="signUp.get('address')?.errors?.['required']">Address is required.</div>
+                        <div *ngIf="signUp.get('address')?.errors?.['minlength']">Address must be at least 5 characters.</div>
+                        <div *ngIf="signUp.get('address')?.errors?.['maxlength']">Address cannot exceed 100 characters.</div>
+                        <div *ngIf="signUp.get('address')?.errors?.['pattern']">Invalid address format.</div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" class="form-control" formControlName="password">
+                    <div *ngIf="signUp.get('password')?.invalid && signUp.get('password')?.touched" class="error-message">
+                        <div *ngIf="signUp.get('password')?.errors?.['required']">Password is required.</div>
+                        <div *ngIf="signUp.get('password')?.errors?.['minlength']">Password must be at least 8 characters.</div>
+                        <div *ngIf="signUp.get('password')?.errors?.['pattern']">
+                            Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary btn-block" [disabled]="signUp.invalid || loading">
+                        {{ loading ? 'Registering...' : 'Register' }}
+                    </button>
+                </div>
+            </form>
+
+            <div class="auth-footer">
+                <p>Already have an account? <a routerLink="/login">Login</a></p>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,66 @@
+<div class="container">
+  <div *ngIf="loading" class="loading-spinner">
+    <div class="spinner"></div>
+    <p>Loading room details...</p>
+  </div>
+
+  <div *ngIf="error" class="alert alert-error">
+    {{ error }}
+  </div>
+
+  <div *ngIf="!loading && !error">
+    <h1 class="page-title">Upload a Photo of Your Room</h1>
+    <p class="page-description">
+      Take a clear photo to help us optimize your packing
+    </p>
+
+    <div class="card upload-card">
+
+      <div *ngIf="imagePreview" class="image-preview">
+        <img [src]="imagePreview" alt="Room preview" class="preview-image">
+      </div>
+
+      <div [ngClass]="selectedFile ? 'file-upload file-upload-small' : 'file-upload file-upload-large'">
+        <label for="room-image" class="file-upload-label">
+          <span *ngIf="!selectedFile">Choose a file</span>
+          <span *ngIf="selectedFile">Change file</span>
+        </label>
+        <input 
+          type="file" 
+          id="room-image" 
+          accept="image/*" 
+          (change)="onFileSelected($event)"
+        >
+        <div *ngIf="selectedFile" class="file-name">
+          {{ selectedFile.name }}
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="boxVolume">Select Box Volume</label>
+        <select 
+          id="boxVolume" 
+          class="form-control" 
+          [(ngModel)]="selectedBoxVolume"
+        >
+          <option [ngValue]="0" disabled selected>Select box size</option>
+          <option [ngValue]="450">Small</option>
+          <option [ngValue]="1250">Medium</option>
+          <option [ngValue]="2527">Large</option>
+          <option [ngValue]="3120">Extra Large</option>
+        </select>
+      </div>
+
+      <div class="form-actions">
+        <button class="btn btn-outline" (click)="goBack()">Back</button>
+        <button 
+          class="btn btn-primary" 
+          [disabled]="!selectedFile || !selectedBoxVolume || loading" 
+          (click)="onSubmit()"
+        >
+          {{ loading ? 'Processing...' : 'Submit' }}
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
