@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "amd7C2f5zsoi42CXRUB+KXYNTHPydMRIEXi1s6LFKFw=",
+  "Source": "EasyPack.API",
+  "BasePath": "_content/EasyPack.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

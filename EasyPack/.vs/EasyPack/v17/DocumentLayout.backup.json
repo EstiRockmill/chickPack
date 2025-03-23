@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|solutionrelative:easypack.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|solutionrelative:easypack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.api\\models\\item\\itempostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|solutionrelative:easypack.api\\models\\item\\itempostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DFDD82-E3C4-4D41-9C84-F447101571CC}|EasyPack.Service\\EasyPack.Service.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.service\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DFDD82-E3C4-4D41-9C84-F447101571CC}|EasyPack.Service\\EasyPack.Service.csproj|solutionrelative:easypack.service\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|solutionrelative:easypack.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E90A6-6BC9-421C-B113-915AB230D06B}|EasyPack.Core\\EasyPack.Core.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E90A6-6BC9-421C-B113-915AB230D06B}|EasyPack.Core\\EasyPack.Core.csproj|solutionrelative:easypack.core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E90A6-6BC9-421C-B113-915AB230D06B}|EasyPack.Core\\EasyPack.Core.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.core\\models\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E90A6-6BC9-421C-B113-915AB230D06B}|EasyPack.Core\\EasyPack.Core.csproj|solutionrelative:easypack.core\\models\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3E90A6-6BC9-421C-B113-915AB230D06B}|EasyPack.Core\\EasyPack.Core.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.core\\dto\u0027s\\roomoptimize (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3E90A6-6BC9-421C-B113-915AB230D06B}|EasyPack.Core\\EasyPack.Core.csproj|solutionrelative:easypack.core\\dto\u0027s\\roomoptimize (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|solutionrelative:easypack.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DFDD82-E3C4-4D41-9C84-F447101571CC}|EasyPack.Service\\EasyPack.Service.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.service\\service\\optimalpack\\avltreeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DFDD82-E3C4-4D41-9C84-F447101571CC}|EasyPack.Service\\EasyPack.Service.csproj|solutionrelative:easypack.service\\service\\optimalpack\\avltreeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.api\\controllers\\optimizecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|solutionrelative:easypack.api\\controllers\\optimizecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.api\\controllers\\imageanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|solutionrelative:easypack.api\\controllers\\imageanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.api\\controllers\\boxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|solutionrelative:easypack.api\\controllers\\boxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|c:\\users\\work\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\csharp\\easypack\\easypack.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7875A853-38E3-44B2-96FD-64D43E491A5F}|EasyPack.API\\EasyPack.API.csproj|solutionrelative:easypack.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EasyPack.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\appsettings.json",
+              "RelativeToolTip": "EasyPack.API\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T17:30:17.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Models\\Item\\ItemPostModel.cs",
+              "RelativeDocumentMoniker": "EasyPack.API\\Models\\Item\\ItemPostModel.cs",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Models\\Item\\ItemPostModel.cs",
+              "RelativeToolTip": "EasyPack.API\\Models\\Item\\ItemPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:27:30.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.Service\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "EasyPack.Service\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.Service\\Service\\UserService.cs",
+              "RelativeToolTip": "EasyPack.Service\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:27:07.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EasyPack.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EasyPack.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T17:26:28.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.Core\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "EasyPack.Core\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.Core\\Models\\Room.cs",
+              "RelativeToolTip": "EasyPack.Core\\Models\\Room.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:23:28.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.Core\\Models\\Box.cs",
+              "RelativeDocumentMoniker": "EasyPack.Core\\Models\\Box.cs",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.Core\\Models\\Box.cs",
+              "RelativeToolTip": "EasyPack.Core\\Models\\Box.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:23:20.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Program.cs",
+              "RelativeDocumentMoniker": "EasyPack.API\\Program.cs",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Program.cs",
+              "RelativeToolTip": "EasyPack.API\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:19:13.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomOptimize (1).cs",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.Core\\DTO\u0027s\\RoomOptimize (1).cs",
+              "RelativeDocumentMoniker": "EasyPack.Core\\DTO\u0027s\\RoomOptimize (1).cs",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.Core\\DTO\u0027s\\RoomOptimize (1).cs",
+              "RelativeToolTip": "EasyPack.Core\\DTO\u0027s\\RoomOptimize (1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:23:10.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImageAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Controllers\\ImageAnalysis.cs",
+              "RelativeDocumentMoniker": "EasyPack.API\\Controllers\\ImageAnalysis.cs",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Controllers\\ImageAnalysis.cs",
+              "RelativeToolTip": "EasyPack.API\\Controllers\\ImageAnalysis.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:18:34.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AVLTreeService.cs",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.Service\\Service\\OptimalPack\\AVLTreeService.cs",
+              "RelativeDocumentMoniker": "EasyPack.Service\\Service\\OptimalPack\\AVLTreeService.cs",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.Service\\Service\\OptimalPack\\AVLTreeService.cs",
+              "RelativeToolTip": "EasyPack.Service\\Service\\OptimalPack\\AVLTreeService.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:18:34.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "EasyPack.API\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "EasyPack.API\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:18:34.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BoxController.cs",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Controllers\\BoxController.cs",
+              "RelativeDocumentMoniker": "EasyPack.API\\Controllers\\BoxController.cs",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Controllers\\BoxController.cs",
+              "RelativeToolTip": "EasyPack.API\\Controllers\\BoxController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:18:34.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OptimizeCalculation.cs",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Controllers\\OptimizeCalculation.cs",
+              "RelativeDocumentMoniker": "EasyPack.API\\Controllers\\OptimizeCalculation.cs",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Controllers\\OptimizeCalculation.cs",
+              "RelativeToolTip": "EasyPack.API\\Controllers\\OptimizeCalculation.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADwv0IAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:18:34.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EasyPack.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\work\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\CSharp\\EasyPack\\EasyPack.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EasyPack.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:18:34.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

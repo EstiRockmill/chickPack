@@ -1,0 +1,70 @@
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.deps.json
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.runtimeconfig.json
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.pdb
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Core.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Core.pdb
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.csproj.AssemblyReference.cache
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.AssemblyInfoInputs.cache
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.AssemblyInfo.cs
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.csproj.CoreCompileInputs.cache
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.sourcelink.json
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.csproj.CopyComplete
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\obj\Debug\net8.0\refint\EasyPack.Data.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.pdb
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.genruntimeconfig.cache
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.Data\obj\Debug\net8.0\ref\EasyPack.Data.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.deps.json
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.runtimeconfig.json
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.pdb
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Core.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Core.pdb
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.csproj.AssemblyReference.cache
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.AssemblyInfoInputs.cache
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.AssemblyInfo.cs
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.csproj.CoreCompileInputs.cache
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.csproj.CopyComplete
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\obj\Debug\net8.0\refint\EasyPack.Data.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.pdb
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.genruntimeconfig.cache
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.Data\obj\Debug\net8.0\ref\EasyPack.Data.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.deps.json
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.runtimeconfig.json
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.pdb
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Core.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Core.pdb
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.csproj.AssemblyReference.cache
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.AssemblyInfoInputs.cache
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.AssemblyInfo.cs
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.csproj.CoreCompileInputs.cache
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.sourcelink.json
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.csproj.CopyComplete
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\obj\Debug\net8.0\refint\EasyPack.Data.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.pdb
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.genruntimeconfig.cache
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.Data\obj\Debug\net8.0\ref\EasyPack.Data.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.deps.json
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.runtimeconfig.json
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Data.pdb
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Core.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\bin\Debug\net8.0\EasyPack.Core.pdb
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.csproj.AssemblyReference.cache
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.AssemblyInfoInputs.cache
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.AssemblyInfo.cs
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.csproj.CoreCompileInputs.cache
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.6603D7FC.Up2Date
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\obj\Debug\net8.0\refint\EasyPack.Data.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.pdb
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\obj\Debug\net8.0\EasyPack.Data.genruntimeconfig.cache
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.Data\obj\Debug\net8.0\ref\EasyPack.Data.dll

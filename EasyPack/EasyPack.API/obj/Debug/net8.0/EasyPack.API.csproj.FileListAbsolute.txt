@@ -1,0 +1,625 @@
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.exe
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Core.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Data.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Service.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Core.pdb
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Data.pdb
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Service.pdb
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.csproj.AssemblyReference.cache
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.AssemblyInfoInputs.cache
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.AssemblyInfo.cs
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.csproj.CoreCompileInputs.cache
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.sourcelink.json
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.EasyPack.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.build.EasyPack.API.props
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EasyPack.API.props
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EasyPack.API.props
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\scopedcss\bundle\EasyPack.API.styles.css
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\refint\EasyPack.API.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.pdb
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\appsettings.json
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.deps.json
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.runtimeconfig.json
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.pdb
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.csproj.CopyComplete
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.genruntimeconfig.cache
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\obj\Debug\net8.0\ref\EasyPack.API.dll
+C:\Users\efrat f\Desktop\Efrat studies\second year\EasyPack\EasyPack.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\appsettings.json
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.exe
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.deps.json
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.runtimeconfig.json
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.pdb
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Core.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Data.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Service.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Core.pdb
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Data.pdb
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Service.pdb
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.csproj.AssemblyReference.cache
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.AssemblyInfoInputs.cache
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.AssemblyInfo.cs
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.csproj.CoreCompileInputs.cache
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.EasyPack.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.build.EasyPack.API.props
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EasyPack.API.props
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EasyPack.API.props
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\scopedcss\bundle\EasyPack.API.styles.css
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.csproj.CopyComplete
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\refint\EasyPack.API.dll
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.pdb
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.genruntimeconfig.cache
+C:\Users\efrat f\Downloads\jm_5IIaKRd4j0iQEc8\EasyPack\EasyPack.API\obj\Debug\net8.0\ref\EasyPack.API.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\appsettings.json
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.exe
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.deps.json
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.runtimeconfig.json
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.pdb
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Core.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Data.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Service.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Core.pdb
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Data.pdb
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Service.pdb
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.csproj.AssemblyReference.cache
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.AssemblyInfoInputs.cache
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.AssemblyInfo.cs
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.csproj.CoreCompileInputs.cache
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.sourcelink.json
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.EasyPack.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.build.EasyPack.API.props
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EasyPack.API.props
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EasyPack.API.props
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\scopedcss\bundle\EasyPack.API.styles.css
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.csproj.CopyComplete
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\refint\EasyPack.API.dll
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.pdb
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.genruntimeconfig.cache
+C:\Users\efrat f\Desktop\EasyPack\EasyPack.API\obj\Debug\net8.0\ref\EasyPack.API.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\appsettings.Development (2).json
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\appsettings.json
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.staticwebassets.endpoints.json
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.exe
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.deps.json
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.runtimeconfig.json
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.API.pdb
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Core.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Data.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Service.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Core.pdb
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Data.pdb
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\bin\Debug\net8.0\EasyPack.Service.pdb
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.csproj.AssemblyReference.cache
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.AssemblyInfoInputs.cache
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.AssemblyInfo.cs
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.csproj.CoreCompileInputs.cache
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\scopedcss\bundle\EasyPack.API.styles.css
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.EasyPack.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.EasyPack.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.build.EasyPack.API.props
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EasyPack.API.props
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EasyPack.API.props
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.23278E8B.Up2Date
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\refint\EasyPack.API.dll
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.pdb
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\EasyPack.API.genruntimeconfig.cache
+C:\Users\work\OneDrive\שולחן העבודה\CSharp\EasyPack\EasyPack.API\obj\Debug\net8.0\ref\EasyPack.API.dll
